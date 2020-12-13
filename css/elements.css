@@ -215,7 +215,7 @@
   }
   #main-header .main-nav ul li ul.dropdown li a {
     white-space: nowrap;
-    font-family: "HK Grotesk", "Helvetica Neue", Helvetica, sans-serif;
+    font-family: "Archivo Black";
   }
   #main-header .main-nav ul li:hover ul.dropdown {
     top: 15px;
@@ -248,7 +248,7 @@
     display: block;
     margin: 10px 0;
     font-size: .9em;
-    font-family: "HK Grotesk", "Helvetica Neue", Helvetica, sans-serif;
+    font-family: "Archivo Black";
   }
   #main-sidebar .main-nav ul li:hover a {
     color: #fff;
@@ -338,7 +338,7 @@
     color: #000;
   }
   .main-nav ul li ul.dropdown {
-    font-family: "HK Grotesk", "Helvetica Neue", Helvetica, sans-serif;
+    font-family: "Archivo Black";
     max-height: 0;
     margin: 0;
     padding: 0;

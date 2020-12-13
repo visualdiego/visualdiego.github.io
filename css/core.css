@@ -1573,7 +1573,7 @@ p {
 .lead {
   margin-bottom: 20px;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 500;
   line-height: 1.4;
 }
 
@@ -14115,7 +14115,7 @@ button.close {
 @font-face {
   font-family: 'HK Grotesk';
   src: url("../fonts/hkgrotesk-light-webfont.woff2") format("woff2"), url("../fonts/hkgrotesk-light-webfont.woff") format("woff");
-  font-weight: 300;
+  font-weight: 500;
   font-style: normal;
 }
 
@@ -14515,16 +14515,16 @@ section {
 }
 
 .content a {
-  color: #fff;
+f
   text-decoration: underline;
 }
 
 body {
-  font-family: "HK Grotesk", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Archivo Black";
 }
 
 p {
-  font-family: "HK Grotesk", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Archivo Black";
   font-size: 1.45em;
   line-height: 1.6;
   color: #B6B6B6;
@@ -14533,7 +14533,7 @@ p {
 h1 {
   font-size: 3.5em;
   font-family: "Archivo Black";
-  font-weight: 300;
+  font-weight: 500;
 }
 
 @media screen and (max-width: 768px) {
@@ -14556,7 +14556,7 @@ h2 {
 h3 {
   font-size: 1.65em;
   font-family: "Archivo Black";
-  font-weight: 300;
+  font-weight: 500;
 }
 
 @media screen and (max-width: 768px) {

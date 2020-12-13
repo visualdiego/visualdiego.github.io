@@ -41,7 +41,7 @@
 }
 
 #main-header a.brand .name {
-  font-family: "Poppins", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Archivo Black";
   font-size: 1.15em;
   margin-right: 20px;
 }
@@ -91,7 +91,7 @@
     display: block;
   }
   #main-sidebar a.brand .name {
-    font-family: "Poppins", "Helvetica Neue", Helvetica, sans-serif;
+    font-family: "Archivo Black";
     font-size: 1.15em;
     margin-right: 20px;
   }
@@ -127,7 +127,7 @@
     margin-top: 1px;
   }
   a.brand .name {
-    font-family: "Poppins", "Helvetica Neue", Helvetica, sans-serif;
+    font-family: "Archivo Black";
     font-size: 1.15em;
     margin-right: 20px;
   }
@@ -135,7 +135,7 @@
 
 /* 02. Navigation */
 .main-nav {
-  font-family: "Poppins", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Archivo Black";
 }
 
 .main-nav ul {
@@ -999,7 +999,7 @@ textarea.form-control {
 
 label {
   color: #fff;
-  font-family: "Poppins", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Archivo Black";
   font-weight: 400;
   font-size: .9em;
 }

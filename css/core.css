@@ -15,8 +15,9 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-body {
+html, body {
   margin: 0;
+  background-color: #ffffff;
 }
 
 article,
@@ -6771,7 +6772,7 @@ button.close {
   bottom: 0;
   left: 0;
   z-index: 1040;
-  background-color: #000;
+  background-color: #fff;
 }
 
 .modal-backdrop.fade {
@@ -6921,7 +6922,7 @@ button.close {
   padding: 3px 8px;
   color: #fff;
   text-align: center;
-  background-color: #000;
+  background-color: #fff;
   border-radius: 4px;
 }
 
@@ -14208,7 +14209,7 @@ a:focus, a:active, a:hover, textarea:focus, textarea:active, textarea:hover, inp
 }
 
 html {
-  background: #000;
+  background: #ffffff;
 }
 
 html body {
@@ -14216,7 +14217,7 @@ html body {
 }
 
 html body h1, html body h2, html body h3, html body h4, html body h5, html body h6, html body a, html body span, html body table {
-  color: #fff;
+  color: #000000;
 }
 
 .m-0 {
@@ -14527,7 +14528,7 @@ p {
   font-family: 'Michroma', sans-serif;
   font-size: 1.45em;
   line-height: 1.6;
-  color: #B6B6B6;
+  color: #000000;
 }
 
 h1 {
